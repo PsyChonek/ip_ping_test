@@ -1,0 +1,82 @@
+140.227.71.217	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	99.8%	
+140.227.11.26	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	99.7%	
+51.178.137.159	3128	HTTPS	None	United Kingdom Proxy United Kingdom			87.5%	
+85.14.243.31	3128	HTTPS	None	Germany Proxy Germany			84.9%	
+96.113.165.182	3128	HTTPS	None	United States Proxy United States	New Jersey	Mount Laurel	84.2%	
+219.250.23.243	8888	HTTPS	None	Korea Proxy Korea	Seoul-t'ukpyolsi	Seoul	83.9%	
+35.185.16.35	80	HTTPS	High Anonymous	United States Proxy United States	Michigan	Ann Arbor	79.2%	
+201.91.82.155	3128	HTTPS	None	Brazil Proxy Brazil			76.8%	
+95.217.186.24	3128	HTTPS	None	Ukraine Proxy Ukraine			70.3%	
+158.69.22.224	3128	HTTPS	Anonymous	United States Proxy United States	California	Lake Forest	69.9%	
+161.97.65.52	3128	HTTPS	None	United States Proxy United States	Colorado	Boulder	61.1%	
+52.162.177.174	3128	HTTPS	None	United States Proxy United States	Delaware	Wilmington	54.2%	
+111.90.179.74	8080	HTTPS	None	Cambodia Proxy Cambodia			47.0%	
+123.136.8.122	3128	HTTPS	None	Hong Kong Proxy Hong Kong		Central District	46.9%	
+95.111.245.169	3128	HTTPS	None	Ukraine Proxy Ukraine	Kyyivs'ka Oblast'	Kiev	46.1%	
+201.44.1.36	3128	HTTPS	None	Brazil Proxy Brazil			45.1%	
+51.75.147.41	3128	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			42.8%	
+79.110.52.229	2345	HTTPS	Anonymous	Ukraine Proxy Ukraine			41.1%	
+62.171.177.113	8888	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			40.9%	
+220.149.25.33	80	HTTPS	Anonymous	Korea Proxy Korea	Seoul-t'ukpyolsi	Seoul	40.1%	
+183.89.63.27	8080	HTTPS	None	Thailand Proxy Thailand	Nonthaburi	Nonthaburi	40.0%	
+175.106.10.164	8089	HTTPS	None	Indonesia Proxy Indonesia			39.7%	
+206.189.235.214	80	HTTPS	High Anonymous	United States Proxy United States	California	Alameda	39.6%	
+175.106.14.206	8585	HTTPS	None	Indonesia Proxy Indonesia			39.1%	
+183.88.0.171	8080	HTTPS	None	Thailand Proxy Thailand	Songkhla	Songkhla	38.2%	
+51.75.147.33	3128	HTTPS	High Anonymous	United Kingdom Proxy United Kingdom			38.1%	
+119.236.177.134	3128	HTTPS	None	Hong Kong Proxy Hong Kong		Central District	38.0%	
+203.146.252.191	3128	HTTPS	None	Thailand Proxy Thailand	Krung Thep	Bangkok	36.4%	
+1.10.133.162	80	HTTPS	None	Thailand Proxy Thailand			33.8%	
+183.88.212.141	8080	HTTPS	None	Thailand Proxy Thailand			32.5%	
+90.188.41.236	3128	HTTPS	High Anonymous	Russia Proxy Russia			32.4%	
+165.22.81.30	37171	HTTPS	High Anonymous	United States Proxy United States	Washington	Seattle	32.1%	
+217.195.203.27	3129	HTTPS	Anonymous	Turkey Proxy Turkey			32.1%	
+180.211.192.122	8080	HTTPS	None	Bangladesh Proxy Bangladesh	Dhaka	Dhaka	31.5%	
+139.99.102.114	80	HTTPS	Anonymous	United States Proxy United States	California	San Jose	31.4%	
+51.75.147.40	3128	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			31.3%	
+203.146.252.177	3128	HTTPS	None	Thailand Proxy Thailand	Krung Thep	Bangkok	29.9%	
+46.151.108.6	41171	HTTPS	High Anonymous	Russia Proxy Russia			29.3%	
+14.207.82.231	8080	HTTPS	None	Thailand Proxy Thailand	Krung Thep	Bangkok	27.9%	
+188.173.32.55	8888	HTTPS	None	Romania Proxy Romania	Bucuresti	Bucharest	26.6%	
+49.156.42.188	8080	HTTPS	None	Cambodia Proxy Cambodia			26.1%	
+180.183.28.35	8080	HTTPS	None	Thailand Proxy Thailand	Krung Thep	Bangkok	25.1%	
+39.109.123.188	3128	HTTPS	None	Hong Kong Proxy Hong Kong			25.1%	
+109.245.229.226	8089	HTTPS	None	Serbia Proxy Serbia		Beograd	23.9%	
+157.230.103.189	38569	HTTPS	High Anonymous	United States Proxy United States	Georgia	Duluth	23.5%	
+202.169.235.71	8089	HTTPS	None	Indonesia Proxy Indonesia	Yogyakarta	Yogyakarta	22.4%	
+201.157.44.108	3128	HTTPS	None	Mexico Proxy Mexico	Baja California	Distrito Federal	21.8%	
+203.252.224.156	80	HTTPS	High Anonymous	Korea Proxy Korea	Ch'ungch'ong-bukto	Chongju	21.8%	
+212.19.20.215	3128	HTTPS	None	Russia Proxy Russia			21.2%	
+124.158.167.172	8080	HTTPS	None	Indonesia Proxy Indonesia	Jawa Tengah	Menteng	21.1%
+157.230.103.91	42867	HTTPS	High Anonymous	United States Proxy United States	Georgia	Duluth	20.0%	
+190.2.212.36	8080	HTTPS	None	Panama Proxy Panama			18.5%	
+184.82.128.211	8080	HTTPS	None	United States Proxy United States	Pennsylvania	Scranton	18.2%	
+125.26.99.186	41358	HTTPS	High Anonymous	Thailand Proxy Thailand	Chaiyaphum	Chaiyaphum	17.4%	
+139.255.160.102	8080	HTTPS	None	Indonesia Proxy Indonesia			17.1%	
+47.91.137.211	3128	HTTPS	None	Canada Proxy Canada	Ontario	Ottawa	17.1%	
+111.92.164.246	56871	HTTPS	High Anonymous	Indonesia Proxy Indonesia			15.9%	
+192.188.242.188	3128	HTTPS	None	Hungary Proxy Hungary	Pest	Godollo	15.8%	
+177.37.240.52	8080	HTTPS	High Anonymous	Brazil Proxy Brazil			15.7%	
+62.152.36.169	8080	HTTPS	None	Russia Proxy Russia			15.7%	
+49.156.47.162	8080	HTTPS	High Anonymous	Cambodia Proxy Cambodia			15.4%	
+95.165.252.94	55443	HTTPS	High Anonymous	Russia Proxy Russia	Moscow City	Moscow	15.4%	
+101.255.125.10	8080	HTTPS	None	Indonesia Proxy Indonesia			14.7%	
+180.211.183.2	8080	HTTPS	None	Bangladesh Proxy Bangladesh	Dhaka	Dhaka	14.4%	
+49.156.35.22	8080	HTTPS	None	Cambodia Proxy Cambodia			14.4%	
+77.242.25.81	8080	HTTPS	None	Albania Proxy Albania			14.4%	
+36.37.160.224	23500	HTTPS	High Anonymous	Cambodia Proxy Cambodia			14.3%	
+177.71.77.202	20183	HTTPS	None	Brazil Proxy Brazil			14.1%	
+129.247.247.137	80	HTTPS	High Anonymous	Germany Proxy Germany	Baden-Wurttemberg	Luft	14.0%	
+119.2.54.204	44495	HTTPS	High Anonymous	Indonesia Proxy Indonesia	Jawa Tengah	Semarang	13.9%	
+163.172.229.166	3838	HTTPS	Anonymous	United Kingdom Proxy United Kingdom	West Dunbartonshire	Alexandria	13.8%	
+88.255.102.106	8080	HTTPS	None	Turkey Proxy Turkey			13.8%	
+118.174.232.128	45019	HTTPS	High Anonymous	Thailand Proxy Thailand	Krung Thep	Bangkok	13.7%	
+190.171.180.162	50846	HTTPS	High Anonymous	Chile Proxy Chile			13.4%	
+189.14.193.242	53281	HTTPS	High Anonymous	Brazil Proxy Brazil			13.3%	
+118.175.207.205	61293	HTTPS	High Anonymous	Thailand Proxy Thailand	Krung Thep	Bangkok	12.8%	
+125.26.6.61	60121	HTTPS	High Anonymous	Thailand Proxy Thailand	Krung Thep	Bangkok Noi	12.4%	
+210.103.3.169	8080	HTTPS	None	Korea Proxy Korea	Seoul-t'ukpyolsi	Seoul	12.2%	
+81.201.56.94	8090	HTTPS	None	Czech Proxy Czech			11.7%	
+62.210.209.54	3838	HTTPS	Anonymous	France Proxy France			10.8%	
+222.124.193.113	8080	HTTPS	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	10.2%	
+183.88.16.54	8080	HTTPS	None	Thailand Proxy Thailand	Songkhla	Songkhla	5.9%
